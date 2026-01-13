@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hey there, I'm <a href="https://github.com/Tejx27">Tejas Nikam</a>!</h2>
 
 <p align="center">
-🌐 <a href="https://tejasnikam-portfolio.netlify.app/" target="_blank"><strong>View My Portfolio</strong></a><br>
+🌐 <a href="https://tejasnikam-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer"><strong>View My Portfolio</strong></a><br>
 🎓 Master’s Student in <strong>Management & Data Science</strong> at <strong>Leuphana University, Germany</strong><br>
 💻 Former <strong>Junior Data Analyst</strong> at <strong>TDM Infotech, Pune</strong><br>
 📍 Based in Hamburg, Germany
