@@ -88,7 +88,8 @@ With expertise in <strong>Java</strong>, <strong>JavaScript</strong>, and <stron
 
 ### 🚀 Featured Projects  
 
-- 🩺 <strong>LifeGuardian</strong> – Real-time emergency response app using <strong>Node.js</strong>, <strong>Socket.IO</strong>, and <strong>MongoDB</strong>  
-- 🏡 <strong>Rentiverse</strong> – Full-stack MERN rental platform with <strong>Razorpay API</strong> & <strong>Dockerized backend</strong>  
+- 🩺 <strong>LifeGuardian</strong> – Real-time emergency response app using <strong>Node.js</strong>, <strong>Socket.IO</strong>, and <strong>MongoDB</strong> · <a href="https://lifeguardian-users.netlify.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>  
+- 🏡 <strong>Rentiverse</strong> – Full-stack MERN rental platform with <strong>Razorpay API</strong> & <strong>Dockerized backend</strong> · <a href="https://renti-verse.onrender.com/" target="_blank" rel="noopener noreferrer">Live Demo</a>  
+- 🖼️ <strong>GT Wall Crafts</strong> – E-commerce platform for custom wall art & décor · <a href="http://gtwallcrafts.com/" target="_blank" rel="noopener noreferrer">Live Demo</a>  
 - 📊 <strong>AI-Enhanced Learning vs. Gamified Testing</strong> – Data-driven research comparing educational engagement  
 - 💓 <strong>Pulse Rate Monitoring with Arduino</strong> – Real-time health monitoring using microcontroller integration
