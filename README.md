@@ -90,6 +90,7 @@ With expertise in <strong>Java</strong>, <strong>JavaScript</strong>, and <stron
 
 - 🩺 <strong>LifeGuardian</strong> – Real-time emergency response app using <strong>Node.js</strong>, <strong>Socket.IO</strong>, and <strong>MongoDB</strong> · <a href="https://lifeguardian-users.netlify.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>  
 - 🏡 <strong>Rentiverse</strong> – Full-stack MERN rental platform with <strong>Razorpay API</strong> & <strong>Dockerized backend</strong> · <a href="https://renti-verse.onrender.com/" target="_blank" rel="noopener noreferrer">Live Demo</a>  
-- 🖼️ <strong>GT Wall Crafts</strong> – E-commerce platform for custom wall art & décor · <a href="http://gtwallcrafts.com/" target="_blank" rel="noopener noreferrer">Live Demo</a>  
+- 🖼️ <strong>GT Wall Crafts</strong> –GT Wallcrafts is a full-stack web platform that offers painting services with an interactive 3D color visualization tool. It connects customers with professional painters through a managed dashboard system while enabling quotation requests and project tracking. The platform also includes an integrated e-commerce system with Razorpay for seamless online payments.
+· <a href="http://gtwallcrafts.com/" target="_blank" rel="noopener noreferrer">Live Demo</a>  
 - 📊 <strong>AI-Enhanced Learning vs. Gamified Testing</strong> – Data-driven research comparing educational engagement  
 - 💓 <strong>Pulse Rate Monitoring with Arduino</strong> – Real-time health monitoring using microcontroller integration
